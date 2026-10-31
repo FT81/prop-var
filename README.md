@@ -96,4 +96,3 @@ Please cite the paper above. A `CITATION.cff` file can be added if desired.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-*Add a license here (e.g. MIT for the code).*
